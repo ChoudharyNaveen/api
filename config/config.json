@@ -1,0 +1,4 @@
+{
+    "TOKEN_SECRET":"SecretString",
+    "DB_URL":"mongodb+srv://naveenchoudhary:Naveen$135@cluster0.hryma6j.mongodb.net/vpcAlarms?readPreference=primary"
+}
